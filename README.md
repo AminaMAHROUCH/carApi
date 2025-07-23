@@ -29,7 +29,7 @@ Les utilisateurs peuvent consulter les voitures disponibles, créer, modifier ou
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/AminaMAHROUCH/carApi.git
    cd carApi
    ```
 
