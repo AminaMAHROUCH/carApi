@@ -16,7 +16,7 @@ Les utilisateurs peuvent consulter les voitures disponibles, créer, modifier ou
 - [x] Tests fonctionnels pour assurer le bon comportement des endpoints (création, mise à jour, suppression, accès restreint)
 - [x] Gestion des autorisations pour restreindre l’accès aux réservations
 
-[Car Reservation Screenshot](doc/test.png)
+![Car Reservation Screenshot](doc/test.png)
 ## Technologies utilisées
 
 - PHP 8.3
